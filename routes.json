@@ -1,0 +1,6 @@
+{
+	"/master": {
+		"handler": "trello",
+		"parameters": []
+	}
+}

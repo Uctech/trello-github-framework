@@ -1,0 +1,12 @@
+{
+    "name": "trello-github-skeleton",
+    "version": "1.0.0",
+    "description": "Framework for getting data from trello and more to github",
+    "engines": {
+        "node": "7.4.0"
+    },
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    }
+}
