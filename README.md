@@ -16,7 +16,7 @@ To run in a docker container:
 `docker run --rm -v `pwd`:/src -i -t -w /src node:alpine /bin/sh /src/start.sh`
 
 And to test,
-http://<CONTAINER-IP>:5000/v1/master?key=PRIVATE_APP_KEY&target=lz
+http://<CONTAINER-IP>:5000/v1/master?key=PRIVATE_APP_KEY&target=SHORTNAME
 
 ## Routes
 
