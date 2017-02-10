@@ -1,5 +1,5 @@
 {
-    "name": "trello-github-skeleton",
+    "name": "trello-github-framework",
     "version": "1.0.0",
     "description": "Framework for getting data from trello and more to github",
     "engines": {
